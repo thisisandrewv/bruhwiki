@@ -1,0 +1,42 @@
+# exampleSite/config.yaml
+baseURL: https://bruh.wiki/ # Replace with your domain
+languageCode: en-us
+theme: smigle
+title: andrew's blog
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 1
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 2
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 3
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 4
+params:
+  abbrDateFmt: "Jan 2"
+  author: "andrew"
+  brandIconFile: "images/atproto.svg"
+  dateFmt: "2006-01-02"
+  ##
+  ## Options for overriding theme or page defaults
+  ##
+  #customStylesheets: # Use to override theme styles, like logo size
+  #  - "css/custom.css"
+  #readingSpeed: 600 # Use to set custom reading speed
+  #readingSpeedMin: 25 # Use to set custom reading speed range
+  #readingSpeedMax: 175 # Use to set custom reading speed range
+  social:
+    - name: GitHub
+      url: https://github.com/thisisandrewv
+    - name: GitLab
+      url: https://gitlab.com/vandr
+  subtitle: "idk i just vent here"
