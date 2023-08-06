@@ -39,4 +39,6 @@ params:
       url: https://bsky.app/profile/bruh.wiki
     - name: Mastodon
       url: https://mas.to/@vandr
-  subtitle: "idk i just vent here"
+    - name: Letterboxd
+      url: https://letterboxd.com/vandr/
+  subtitle: "i just vent here"
