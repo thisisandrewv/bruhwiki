@@ -23,7 +23,7 @@ menu:
       weight: 4
 params:
   abbrDateFmt: "Jan 2"
-  author: "andrew"
+  author: "andrew vargas"
   brandIconFile: "images/atproto.svg"
   dateFmt: "2006-01-02"
   ##
