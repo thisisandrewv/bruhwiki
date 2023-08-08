@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "554b39867b592f0c",
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b6d66612123448e",
+  "active": "512a6e38f0ced87b",
   "lastOpenFiles": [
     "posts/first-post.md",
     "posts/dotfiles.md",
