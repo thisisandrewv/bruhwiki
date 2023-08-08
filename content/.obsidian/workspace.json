@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/first-post.md",
+                "file": "posts/dotfiles.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/first-post.md",
+                "file": "posts/dotfiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/first-post.md",
+                "file": "posts/dotfiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/first-post.md"
+                "file": "posts/dotfiles.md"
               }
             }
           }
@@ -146,10 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "512a6e38f0ced87b",
+  "active": "3b6d66612123448e",
   "lastOpenFiles": [
-    "posts/mushy.md",
     "posts/first-post.md",
+    "posts/dotfiles.md",
+    "posts/first-post 1.md",
+    "posts/changes.md",
+    "changes.md",
+    "posts/mushy.md",
     "about.md",
     "post/mushy.md",
     "posts",
