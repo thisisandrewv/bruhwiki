@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "f784eeae18bf20ee",
+    "id": "c4ded499c4d1b265",
     "type": "split",
     "children": [
       {
-        "id": "3028ca4c0cf78304",
+        "id": "4774013904c9527b",
         "type": "tabs",
         "children": [
           {
-            "id": "d136ddfd81a4ce57",
+            "id": "a21fb51304a7a0dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/lmao.md",
+                "file": "content/posts/shopping-cart.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ab79b4969e8ede02",
+    "id": "f38a4e81e71cc8af",
     "type": "split",
     "children": [
       {
-        "id": "c0dceb96e3572ec9",
+        "id": "4fc3eb07b9fb91a2",
         "type": "tabs",
         "children": [
           {
-            "id": "3b6d66612123448e",
+            "id": "a352a8118b62ffdd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "5ddca26d8ebccf71",
+            "id": "2c6d868c6477b44b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "371e7e9880fb4f3b",
+            "id": "3e7bc6b1e2d2d763",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "554b39867b592f0c",
+    "id": "5fb0414e8a9b7d3d",
     "type": "split",
     "children": [
       {
-        "id": "160ef3a95b02a831",
+        "id": "d6be7b8ab95c9e91",
         "type": "tabs",
         "children": [
           {
-            "id": "00e64da38da7d470",
+            "id": "f221359440943586",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/lmao.md",
+                "file": "content/posts/shopping-cart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "ea8be24b976707ef",
+            "id": "a3b471003d610ff0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/lmao.md",
+                "file": "content/posts/shopping-cart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6974ddd50b0a7718",
+            "id": "c7d674f67d5c25ea",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "0f9c4bd2191acbf2",
+            "id": "1cf95b211a8a865f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/lmao.md"
+                "file": "content/posts/shopping-cart.md"
               }
             }
           }
@@ -146,27 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d136ddfd81a4ce57",
+  "active": "a352a8118b62ffdd",
   "lastOpenFiles": [
-    "posts/resources/_gen/images/slide2.png.md",
-    "posts/lmao.md",
-    "posts/resources/_gen/images",
-    "posts/resources/_gen",
-    "posts/resources",
-    "posts/images/slide1.png",
-    "posts/images",
-    "about.md",
-    "posts/images/slide2.png",
-    "posts/changes.md",
-    "posts/dotfiles.md",
-    "posts/first-post.md",
-    "posts/first-post 1.md",
-    "changes.md",
-    "posts/mushy.md",
-    "post/mushy.md",
-    "posts",
-    "post/first-post.md",
-    "first-post.md",
-    "post"
+    "content/posts/lmao.md",
+    "content/posts/shopping-cart.md",
+    "static/img/slide1.png",
+    "static/img"
   ]
 }
