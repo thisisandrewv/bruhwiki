@@ -7,6 +7,10 @@ tags:
   - wishlist
   - shopping
 ---
+#### [Apple Watch Ultra](https://www.apple.com/apple-watch-ultra/)
+![](https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO?wid=5120&hei=3280&bgc=fafafa&trim=1&fmt=p-jpg&qlt=80&.v=MkFwcTgvOTFKREVPV3JHaUxZODhneEZPYUtzeTRQVVJ5RG0wcnpadi96OStTa01MdDFVOFdsNTBiaGt4Tnl3bTN2UDZvVDNqV1JlU0FIVjVNbXpUeXArcmJ2dmg4K2wxUFduUnBKNlZMczMrMFlqUjg0emdWWGVuY3EyaGJuRVdFZTRCS2F5aXFjd3VVM0hzT0JXSTQxMUVGU3ZDVTBuMWZMMFp1U2tHa3hHb3R2dXh2NXNWNTBMcklzcWlBT1RUNWd3Vm1ya0ROUElZM3RLdVdBR09WVVpzdEhVR0YzSlZoMUFSME5kMGI2ND0)
+
+---
 #### [Fujifilm X-Pro3](https://shopusa.fujifilm-x.com/products/0-74101-20944-0)
 ![](https://d3r2ao2dqaz6zh.cloudfront.net/system/resources/resources/127711/original/600021360_MAIN_kihon_frontSensor_titaniumBlack?1686807849)
 
