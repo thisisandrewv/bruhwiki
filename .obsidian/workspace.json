@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/shopping-cart.md",
+                "file": "content/posts/recipes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/shopping-cart.md",
+                "file": "content/posts/recipes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/shopping-cart.md",
+                "file": "content/posts/recipes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/shopping-cart.md"
+                "file": "content/posts/recipes.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "81d2a850b9cc1931",
   "lastOpenFiles": [
-    "content/about.md",
-    "content/posts/shopping-cart.md",
     "content/posts/stretches.md",
+    "content/posts/shopping-cart.md",
+    "content/posts/recipes.md",
+    "content/about.md",
     "content/posts/dotfiles.md",
     "content/posts/lmao.md",
     "content/posts/first-post.md",
