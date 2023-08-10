@@ -1,7 +1,13 @@
 ---
-title: "Dotfiles"
+title: "dotfiles"
 date: 2023-08-07T09:53:55-05:00
 draft: false
+categories:
+  - macos
+tags:
+  - terminal
+  - backups
+  - github
 ---
 
 

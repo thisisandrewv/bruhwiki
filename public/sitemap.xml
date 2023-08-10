@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://bruh.wiki/</loc>
+    <lastmod>2023-08-09T17:36:30-05:00</lastmod>
+  </url><url>
+    <loc>https://bruh.wiki/posts/shopping-cart/</loc>
+    <lastmod>2023-08-09T17:36:30-05:00</lastmod>
+  </url><url>
+    <loc>https://bruh.wiki/posts/</loc>
+    <lastmod>2023-08-09T17:36:30-05:00</lastmod>
+  </url><url>
+    <loc>https://bruh.wiki/posts/lmao/</loc>
+    <lastmod>2023-08-09T17:16:42-05:00</lastmod>
+  </url><url>
+    <loc>https://bruh.wiki/posts/dotfiles/</loc>
+    <lastmod>2023-08-07T09:53:55-05:00</lastmod>
+  </url><url>
+    <loc>https://bruh.wiki/posts/first-post/</loc>
+    <lastmod>2023-08-06T19:37:19-05:00</lastmod>
+  </url><url>
+    <loc>https://bruh.wiki/about/</loc>
+  </url><url>
+    <loc>https://bruh.wiki/categories/</loc>
+  </url><url>
+    <loc>https://bruh.wiki/tags/</loc>
+  </url>
+</urlset>

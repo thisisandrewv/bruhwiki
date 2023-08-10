@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4774013904c9527b",
+        "id": "883d64d1030dea72",
         "type": "tabs",
         "children": [
           {
-            "id": "a21fb51304a7a0dc",
+            "id": "81d2a850b9cc1931",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -146,11 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a352a8118b62ffdd",
+  "active": "81d2a850b9cc1931",
   "lastOpenFiles": [
-    "content/posts/lmao.md",
+    "content/about.md",
     "content/posts/shopping-cart.md",
-    "static/img/slide1.png",
-    "static/img"
+    "content/posts/stretches.md",
+    "content/posts/dotfiles.md",
+    "content/posts/lmao.md",
+    "content/posts/first-post.md",
+    "img/slide2.png.md",
+    "img",
+    "content/posts/changes.md",
+    "public/posts/lmao/index.html",
+    "public/posts/shopping-cart/index.html",
+    "public/posts/first-post/index.html",
+    "public/posts/dotfiles/index.html",
+    "public/page/1/index.html",
+    "public/tags/index.html",
+    "public/tags/index.xml",
+    "public/posts/shopping-cart",
+    "public/posts/lmao",
+    "public/img/slide2.png",
+    "public/img/slide1.png",
+    "public/images/yinyang.svg",
+    "public/images/snoop.svg",
+    "public/images/fingerprint.svg",
+    "public/images/question.svg",
+    "public/images/pencil.svg",
+    "public/images/atproto.svg",
+    "public/images/edgy.svg",
+    "public/images/dharma.svg"
   ]
 }

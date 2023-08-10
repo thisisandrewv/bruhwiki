@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on andrew&#39;s blog</title>
+    <link>https://bruh.wiki/posts/</link>
+    <description>Recent content in Posts on andrew&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Aug 2023 17:36:30 -0500</lastBuildDate><atom:link href="https://bruh.wiki/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>i wanna buy these</title>
+      <link>https://bruh.wiki/posts/shopping-cart/</link>
+      <pubDate>Wed, 09 Aug 2023 17:36:30 -0500</pubDate>
+      
+      <guid>https://bruh.wiki/posts/shopping-cart/</guid>
+      <description>TP-7 field recorder by teenage engineering. SADDAM tee from aintnobodycool.com sailor &amp;lsquo;MOON&amp;rsquo; tee from aintnobodycool.com </description>
+    </item>
+    
+    <item>
+      <title>lmao</title>
+      <link>https://bruh.wiki/posts/lmao/</link>
+      <pubDate>Wed, 09 Aug 2023 17:16:42 -0500</pubDate>
+      
+      <guid>https://bruh.wiki/posts/lmao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dotfiles</title>
+      <link>https://bruh.wiki/posts/dotfiles/</link>
+      <pubDate>Mon, 07 Aug 2023 09:53:55 -0500</pubDate>
+      
+      <guid>https://bruh.wiki/posts/dotfiles/</guid>
+      <description>I&amp;rsquo;m getting so fucking tired of working a whole weekend to figure out my dotfiles and then abandoning them for a year. The whole point is these fucks are supposed to make it easier to reimage your device and not have to worry about settings being adjusted and apps being installed&amp;hellip;
+Anyway, There are a few things I want my dotfiles to do for me:
+I need them to save my config for my device.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://bruh.wiki/posts/first-post/</link>
+      <pubDate>Sun, 06 Aug 2023 19:37:19 -0500</pubDate>
+      
+      <guid>https://bruh.wiki/posts/first-post/</guid>
+      <description>Thank God for Obsidian This shit took way too long to configure for me to be messing around with other options. At least this app makes it pretty to type up and sync that shit before posting it.</description>
+    </item>
+    
+  </channel>
+</rss>
