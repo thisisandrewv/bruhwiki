@@ -7,6 +7,10 @@ tags:
   - wishlist
   - shopping
 ---
+#### [Fujifilm X-Pro3](https://shopusa.fujifilm-x.com/products/0-74101-20944-0)
+![](https://d3r2ao2dqaz6zh.cloudfront.net/system/resources/resources/127711/original/600021360_MAIN_kihon_frontSensor_titaniumBlack?1686807849)
+
+---
 #### [Theragun Pro](https://www.therabody.com/us/en-us/theragun-pro.html?dwvar_theragun-pro_color=black&cgid=therabody-recovery-devices#prefn1=productTypeMasterPLP&prefv1=theragun&start=1)
 ![](https://www.therabody.com/dw/image/v2/BCWX_PRD/on/demandware.static/-/Sites-thg-master/default/dw88ff5f7a/images/PDP/5th-Gen-PRO/Theragun-PRO-Carousel-01.jpg?sw=1200)
 
