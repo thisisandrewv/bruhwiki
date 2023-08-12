@@ -38,7 +38,7 @@ params:
     - name: Bluesky
       url: https://bsky.app/profile/bruh.wiki
     - name: Mastodon
-      url: https://mas.to/@vandr
+      url: <a rel="me" href="https://mas.to/@vandr">Mastodon</a>
     - name: Letterboxd
       url: https://letterboxd.com/vandr/
   subtitle: "shower thoughts?"
