@@ -41,4 +41,6 @@ params:
       url: <a rel="me" href="https://mas.to/@vandr">Mastodon</a>
     - name: Letterboxd
       url: https://letterboxd.com/vandr/
+    - name: Pixelfed
+      url: https://pixelfed.social/vandr
   subtitle: "shower thoughts?"
