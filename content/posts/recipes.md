@@ -15,3 +15,4 @@ Now that it has become so easy for me to update this site and then access it I t
 ## Recipe Links
 * [Alton Brown's Buffalo Wings](https://altonbrown.com/wprm_print/1)
 * [Crispy Roasted Chickpeas](https://www.loveandlemons.com/wprm_print/43307)
+* [Perfect Brown Rice](https://cookieandkate.com/perfect-brown-rice-recipe/print/33561/)
