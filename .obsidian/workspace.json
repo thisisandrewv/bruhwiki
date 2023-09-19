@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/atx_food.md",
+                "file": "content/posts/recipes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/atx_food.md",
+                "file": "content/posts/recipes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/atx_food.md",
+                "file": "content/posts/recipes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/atx_food.md"
+                "file": "content/posts/recipes.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "81d2a850b9cc1931",
   "lastOpenFiles": [
-    "content/posts/recipes.md",
     "content/posts/atx_food.md",
+    "content/posts/recipes.md",
     "content/posts/shopping-cart.md",
     "content/about.md",
     "Bills Baby.md",

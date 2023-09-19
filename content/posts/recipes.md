@@ -16,3 +16,4 @@ Now that it has become so easy for me to update this site and then access it I t
 * [Alton Brown's Buffalo Wings](https://altonbrown.com/wprm_print/1)
 * [Crispy Roasted Chickpeas](https://www.loveandlemons.com/wprm_print/43307)
 * [Perfect Brown Rice](https://cookieandkate.com/perfect-brown-rice-recipe/print/33561/)
+* [Baked Chicken Thighs](https://kristineskitchenblog.com/baked-chicken-thighs/#wprm-recipe-container-25590)
