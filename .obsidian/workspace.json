@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/recipes.md",
+                "file": "content/2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "399537257c999b3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/shopping-cart.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/recipes.md",
+                "file": "content/posts/shopping-cart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/recipes.md",
+                "file": "content/posts/shopping-cart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/recipes.md"
+                "file": "content/posts/shopping-cart.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81d2a850b9cc1931",
+  "active": "399537257c999b3f",
   "lastOpenFiles": [
-    "content/posts/atx_food.md",
     "content/posts/recipes.md",
+    "content/2024.md",
+    "content/posts/atx_food.md",
     "content/posts/shopping-cart.md",
     "content/about.md",
     "Bills Baby.md",
