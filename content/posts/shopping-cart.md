@@ -7,6 +7,11 @@ tags:
   - wishlist
   - shopping
 ---
+
+#### [Analogue Pocket](https://store.analogue.co/)
+![](https://images.analogue.co/pocket/store/pocket-white.5439bf039e982617ba2d318443b2d89c.png?auto=format&w=2000&s=d783e1bf1432b63b31140345a90d9fcb)
+
+---
 #### [Supernote Nomad](https://supernote.com/pages/supernote-nomad)
 ![](https://preview.redd.it/supernote-a6-x2-nomad-review-its-nearly-purrfect-v0-b7f6111pva9c1.jpg?width=2268&format=pjpg&auto=webp&s=5f9fb464a76f751f874d445a4fb68cfdc4fe94b6)
 
@@ -27,9 +32,3 @@ tags:
 ![](https://teenage.engineering/_img/645bb28938efc47f2e731f5e_1024.webp)
 
 ---
-#### [SADDAM tee from aintnobodycool.com](https://aintnobodycool.com/products/saddam-tee-maroon)
-![](https://aintnobodycool.com/cdn/shop/products/ANC_PS_SADDAM_s_grande.jpg?v=1635376736)
-
----
-#### [sailor 'MOON' tee from aintnobodycool.com](https://aintnobodycool.com/collections/dj-smokey-double-album/products/moon-tee)
-![](https://aintnobodycool.com/cdn/shop/products/ANC_PS_MOON_grande.jpg?v=1496117070)
